@@ -32,3 +32,7 @@ This is a backend application built using **Spring Boot** for managing employee 
    ```bash
    mvn spring-boot:run
 Finalize project README with full details
+📬 Contact
+Pratima Datta Ghosh
+📧 pratimadattaghosh@gmail.com
+📍 Kolkata, India
