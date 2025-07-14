@@ -31,3 +31,4 @@ This is a backend application built using **Spring Boot** for managing employee 
 3. Run the app from your IDE or with:
    ```bash
    mvn spring-boot:run
+Finalize project README with full details
